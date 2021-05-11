@@ -1,7 +1,7 @@
 ### Hello, thanks for stopping by my page.  My name is Austin Smith and I am a full-stack developer with an emphasis on web development.
 
 ### Here's some of the tools I'm proficient in:
-https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg
+
 
 
 
