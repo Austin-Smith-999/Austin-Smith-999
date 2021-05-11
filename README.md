@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, thanks for stopping by my page.  My name is Austin Smith and I am a full-stack developer with an emphasis on web development.
 
 <!--
 **Austin-Smith-999/Austin-Smith-999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
