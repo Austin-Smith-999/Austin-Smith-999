@@ -2,7 +2,7 @@
 
 ### Here's some of the tools I'm proficient in:
 
-![image info](./pictures/image.png)
+
 
 <!--
 **Austin-Smith-999/Austin-Smith-999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
