@@ -1,4 +1,4 @@
-### Hello, thanks for stopping by.  My name is Austin Smith and I am a full-stack developer with an emphasis on web development.  I'm looking for an entry-level position or an internship or apprenticeship.  
+### Hello, thanks for stopping by.  My name is Austin Smith and I am a full-stack developer with an emphasis on web development.  I mainly have experience with JavaScript/React.js and .NET/C#. But I know Python as well and can learn whatever is needed to get the job done!
 
 ### Here's some of the tools I'm proficient in:
 
